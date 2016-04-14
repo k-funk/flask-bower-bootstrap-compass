@@ -1,0 +1,8 @@
+*.pyc
+
+/app_name/bower_components
+/app_name/static/.webassets-cache
+/app_name/static/css_all.css
+/app_name/static/all.css.map
+/app_name/static/js_all.js
+.env
